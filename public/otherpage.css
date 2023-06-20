@@ -1,0 +1,8 @@
+.fullscreen-image {
+    background-image: url('https://www.everymum.ie/getmedia/8367e31c-043f-49aa-90b9-4ad2fb6df50d/Helpful-Dos-And-Don-ts-For-When-You-re-Pregnant-food-drink.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  

@@ -1,0 +1,13 @@
+.navStyle{
+    transition: all 1s;
+}
+.navStyle:hover{
+    background-color: #198754;
+    color: white !important;
+    max-height: 20px;
+    margin: 0;
+    padding: 0;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: white;
+}

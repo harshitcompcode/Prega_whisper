@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "Ambulance",
+    "desc": "102",
+    "img": "../images/service/cardiogram.png"
+  },
+  {
+    "id": 2,
+    "title": "Do's and Dont's",
+    "desc": "Take prenatal vitamins: Consult your healthcare provider and take the prescribed prenatal vitamins to ensure you're getting adequate nutrients, especially folic acid and iron.",
+    "desc1": "Attend regular prenatal check-ups: Visit your healthcare provider for regular check-ups to monitor the progress of your pregnancy and ensure the health and well-being of both you and your baby",
+    "img": "../images/service/dental.png"
+  },
+  {
+    "id": 3,
+    "title": "Nutritionist",
+    "desc": "9587678956",
+    "img": "../images/service/laboratory.png"
+  },
+  {
+    "id": 4,
+    "title": "Physician",
+    "desc": "8976543214",
+    "img": "../images/service/orthopedics.png"
+  },
+  {
+    "id": 5,
+    "title": "Psychiatrist",
+    "desc": "7689765434",
+    "img": "../images/service/research.png"
+  },
+  {
+    "id": 6,
+    "title": "Gynaecologist",
+    "desc": "9876543210",
+    "img": "../images/service/treatment.png"
+  }
+]
